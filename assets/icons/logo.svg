@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28" height="28" viewBox="0 0 28 28">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_6" data-name="Ellipse 6" cx="14" cy="14" r="14" transform="translate(70 14.5)" fill="rgba(255,255,255,0)"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.821" y1="0.146" x2="0.147" y2="0.149" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e6b45a"/>
+      <stop offset="0.503" stop-color="#f8cc7b"/>
+      <stop offset="0.807" stop-color="#f8cc7b"/>
+      <stop offset="1" stop-color="#f8daa5"/>
+    </linearGradient>
+  </defs>
+  <g id="Mask_Group_2" data-name="Mask Group 2" transform="translate(-70 -14.5)" clip-path="url(#clip-path)">
+    <ellipse id="Ellipse_3" data-name="Ellipse 3" cx="14" cy="13.9" rx="14" ry="13.9" transform="translate(70 14.699)" fill="url(#linear-gradient)"/>
+    <g id="Component_3_1" data-name="Component 3 – 1" transform="translate(71.506 3.191) rotate(-8)">
+      <g id="Component_1_5" data-name="Component 1 – 5" transform="translate(0 7.876) rotate(-31)">
+        <g id="Ellipse_4" data-name="Ellipse 4" fill="none" stroke="#263548" stroke-width="1">
+          <ellipse cx="5.82" cy="9.5" rx="5.82" ry="9.5" stroke="none"/>
+          <ellipse cx="5.82" cy="9.5" rx="5.32" ry="9" fill="none"/>
+        </g>
+      </g>
+      <g id="Component_1_6" data-name="Component 1 – 6" transform="translate(0.242 6.906) rotate(-31)">
+        <g id="Ellipse_4-2" data-name="Ellipse 4" fill="none" stroke="#263548" stroke-width="1">
+          <ellipse cx="5.32" cy="9.5" rx="5.32" ry="9.5" stroke="none"/>
+          <ellipse cx="5.32" cy="9.5" rx="4.82" ry="9" fill="none"/>
+        </g>
+      </g>
+      <g id="Component_1_9" data-name="Component 1 – 9" transform="translate(1.212 7.148) rotate(-31)">
+        <g id="Ellipse_4-3" data-name="Ellipse 4" fill="none" stroke="#263548" stroke-width="1">
+          <ellipse cx="5.32" cy="9.5" rx="5.32" ry="9.5" stroke="none"/>
+          <ellipse cx="5.32" cy="9.5" rx="4.82" ry="9" fill="none"/>
+        </g>
+      </g>
+      <g id="Component_1_10" data-name="Component 1 – 10" transform="translate(0.97 8.118) rotate(-31)">
+        <g id="Ellipse_4-4" data-name="Ellipse 4" fill="none" stroke="#263548" stroke-width="1">
+          <ellipse cx="5.32" cy="9.5" rx="5.32" ry="9.5" stroke="none"/>
+          <ellipse cx="5.32" cy="9.5" rx="4.82" ry="9" fill="none"/>
+        </g>
+      </g>
+      <g id="Component_1_15" data-name="Component 1 – 15" transform="translate(1.961 8.257) rotate(-31)">
+        <g id="Ellipse_4-5" data-name="Ellipse 4" fill="none" stroke="#263548" stroke-width="1">
+          <ellipse cx="5.32" cy="9.5" rx="5.32" ry="9.5" stroke="none"/>
+          <ellipse cx="5.32" cy="9.5" rx="4.82" ry="9" fill="none"/>
+        </g>
+      </g>
+      <g id="Component_1_11" data-name="Component 1 – 11" transform="translate(0.728 9.088) rotate(-31)">
+        <g id="Ellipse_4-6" data-name="Ellipse 4" fill="none" stroke="#263548" stroke-width="1">
+          <ellipse cx="5.82" cy="9.5" rx="5.82" ry="9.5" stroke="none"/>
+          <ellipse cx="5.82" cy="9.5" rx="5.32" ry="9" fill="none"/>
+        </g>
+      </g>
+      <g id="Component_1_12" data-name="Component 1 – 12" transform="translate(0.711 10.088) rotate(-31)">
+        <g id="Ellipse_4-7" data-name="Ellipse 4" fill="none" stroke="#263548" stroke-width="1">
+          <ellipse cx="6.218" cy="9.5" rx="6.218" ry="9.5" stroke="none"/>
+          <ellipse cx="6.218" cy="9.5" rx="5.718" ry="9" fill="none"/>
+        </g>
+      </g>
+      <g id="Component_1_7" data-name="Component 1 – 7" transform="translate(0.484 5.935) rotate(-31)">
+        <g id="Ellipse_4-8" data-name="Ellipse 4" fill="none" stroke="#263548" stroke-width="1">
+          <ellipse cx="4.82" cy="9.5" rx="4.82" ry="9.5" stroke="none"/>
+          <ellipse cx="4.82" cy="9.5" rx="4.32" ry="9" fill="none"/>
+        </g>
+      </g>
+      <g id="Component_1_8" data-name="Component 1 – 8" transform="translate(0.726 4.965) rotate(-31)">
+        <g id="Ellipse_4-9" data-name="Ellipse 4" fill="none" stroke="#263548" stroke-width="1">
+          <ellipse cx="4.32" cy="9.5" rx="4.32" ry="9.5" stroke="none"/>
+          <ellipse cx="4.32" cy="9.5" rx="3.82" ry="9" fill="none"/>
+        </g>
+      </g>
+      <g id="Component_1_13" data-name="Component 1 – 13" transform="translate(0.726 4.965) rotate(-31)">
+        <g id="Ellipse_4-10" data-name="Ellipse 4" fill="none" stroke="#263548" stroke-width="1">
+          <ellipse cx="4.82" cy="9.5" rx="4.82" ry="9.5" stroke="none"/>
+          <ellipse cx="4.82" cy="9.5" rx="4.32" ry="9" fill="none"/>
+        </g>
+      </g>
+      <g id="Component_1_14" data-name="Component 1 – 14" transform="translate(0.471 4.644) rotate(-31)">
+        <g id="Ellipse_4-11" data-name="Ellipse 4" fill="none" stroke="#263548" stroke-width="1">
+          <ellipse cx="4.39" cy="9.5" rx="4.39" ry="9.5" stroke="none"/>
+          <ellipse cx="4.39" cy="9.5" rx="3.89" ry="9" fill="none"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
